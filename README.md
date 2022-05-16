@@ -1,2 +1,2 @@
 # Win32Project
-Default
+Experimental Win32 programming
