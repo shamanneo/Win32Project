@@ -1,2 +1,2 @@
 # Win32Project
-Experimental Win32 programming
+Win32 programming research
